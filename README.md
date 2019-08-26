@@ -28,7 +28,7 @@ In case you need it, you can build your own custom Docker image based on this on
 A number of dynamic build arguments are available:
 
 * **UBUNTU** [18.04]: change it if you'd rather use a different version of Ubuntu;
-* **Python** [3.6]: change it if you'd rather use a different version of Python;
+* **PYTHON** [3.6]: change it if you'd rather use a different version of Python;
 * **AMPL** [[Free demo for Linux 64bit](http://ampl.com/demo/ampl.linux64.tgz)]: change it if you wish to use another AMPL version available in the Docker context.
 
 For instance, if you have a custom AMPL archive named `ampl.tgz` in the current folder and you wish to configure the Docker image to use it,
@@ -44,7 +44,7 @@ you can run the following:
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/jkomyno/ampl-rest-api/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/jkomyno/docker-ampl-python/issues).
 The code is short, throughly commented and well tested, so you should feel quite comfortable working on it.
 If you have any doubt or suggestion, please open an issue.
 
@@ -55,7 +55,7 @@ Give a ⭐️ if this project helped or inspired you!
 ## 📝 License
 
 Built with ❤️ by [Alberto Schiabel](https://github.com/jkomyno).<br />
-This project is [MIT](https://github.com/jkomyno/ampl-rest-api/blob/master/LICENSE) licensed.
+This project is [MIT](https://github.com/jkomyno/docker-ampl-python/blob/master/LICENSE) licensed.
 
 ## Related repositories
 
